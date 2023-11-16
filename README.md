@@ -1,2 +1,2 @@
-# Laravel-Vue-Online-Bookstore
-This project has been done using Laravel 9 Framework as backend and Vue.js 3 has been used for frontend.  With this, an Online Book Library has been developed.  Here, facilities are provided to select the relevant books and add them to the cart.
+# Laravel-Vue JS-Online-Bookstore
+The Online Library Management System is a web-based application designed to provide users with a convenient and efficient way to manage their book borrowing activities. This system allows users to log in, search for books by title, description, or genre, borrow books, and return them, thus ensuring smooth interaction with the online library. This project has been done using Laravel 9 Framework as backend and Vue.js 3 has been used for frontend.  
